@@ -1,0 +1,6 @@
+exporter,importer,exporter_gdp,importer_gdp,distance_km,trade_flow
+AUS,CHN,1.5,14.7,8000,100
+AUS,USA,1.5,21.0,12000,80
+AUS,JPN,1.5,5.1,7800,70
+AUS,IND,1.5,3.2,10400,40
+AUS,IDN,1.5,1.1,5500,35
